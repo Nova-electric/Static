@@ -227,6 +227,7 @@ margin-right:auto;
             transition:0.7s;
             padding-top:50px;
             height:100vh;
+	    position: fixed;
         }
         header nav.open{
             right:-50%;
