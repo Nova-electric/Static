@@ -10,10 +10,10 @@
     display:none;
     z-index:1000;
     margin-top:7px;
-    
+
     }
-    
-    
+
+
     #toggle-sidebar div{
     width:100%;
     margin:6px;
@@ -21,14 +21,14 @@
     height:5%;
     transition:0.4s;
     border-radius: 30px;
-    
+
     }
-    
+
     #toggle-sidebar.open div{
         transition:0.8s;
         background-color:#ff3547;
      }
-    
+
      #toggle-sidebar.open div:nth-of-type(1){
         width:75%;
         transition-delay:0.5s;
