@@ -675,7 +675,7 @@ section {
 }
 
 .faq .faq-list a.collapsed i::before {
-  content: "\eab2" !important;
+  content: "\f107 " !important;
 }
 
 @media (min-width: 1280px) {
