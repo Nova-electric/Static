@@ -277,15 +277,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav .drop-down > a:after {
-  content: "\ea99";
-  font-family: IcoFont;
+  content: "\f0c9";
   padding-left: 10px;
   position: absolute;
   right: 15px;
 }
 
 .mobile-nav .active.drop-down > a:after {
-  content: "\eaa1";
+  content: "\f00d";
 }
 
 .mobile-nav .drop-down > a {
