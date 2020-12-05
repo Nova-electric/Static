@@ -178,7 +178,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down > a:after {
   content: "\ea99";
-  font-family: IcoFont;
   padding-left: 5px;
 }
 
@@ -199,7 +198,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down .drop-down > a:after {
   content: "\eaa0";
-  font-family: IcoFont;
   position: absolute;
   right: 15px;
 }
